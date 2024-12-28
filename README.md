@@ -6,7 +6,7 @@
 
 <p align="justify">✅ Mes compétences techniques :</p>
 <ul align="justify">
-<li><b> 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝</b>:: Expertise avancée en React, Next.js, Vue.js et Angular avec une base solide en HTML5/CSS3 (SASS/SCSS, tailwind, mobile first)</li>
+<li>𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: Expertise avancée en React, Next.js, Vue.js et Angular avec une base solide en HTML5/CSS3 (SASS/SCSS, tailwind, mobile first)</li>
 <li>𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Maîtrise de Node.js (Express et NestJS) pour construire des API robustes et évolutives, ainsi qu'une solide expérience avec plusieurs autres frameworks backend comme Python/Django, Java/Spring Boot et PHP/Laravel.</li>
 <li>𝐁𝐃𝐃: Expériences sur PostgreSQL, MongoDB, CouchDB.</li>
 <li>𝐔𝐗/𝐔𝐈: Expérience dans la réalisation de parcours utilisateurs et de maquettes sous Figma ou Adobe XD.</li>
@@ -27,10 +27,14 @@
 </ul>
 
 
-📌 𝐀𝐠𝐢𝐥𝐢𝐭𝐞́: Utilisation de la méthodologie Agile.
-📌 𝐐𝐮𝐚𝐥𝐢𝐭𝐞́: Application des best practices actuelles (clean code, SOLID, software craftsmanship, KISS, etc.)
-📌 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Travail en équipe, code review, etc.
-📌 𝐀𝐧𝐠𝐥𝐚𝐢𝐬: Anglais professionnel pour les échanges oraux et écrits.
+<ul align="justify">
+<li>📌 𝐀𝐠𝐢𝐥𝐢𝐭𝐞́: Utilisation de la méthodologie Agile.</li>
+<li>📌 𝐐𝐮𝐚𝐥𝐢𝐭𝐞́: Application des best practices actuelles (clean code, SOLID, software craftsmanship, KISS, etc.)</li>
+<li>📌 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Travail en équipe, code review, etc.</li>
+<li>📌 𝐀𝐧𝐠𝐥𝐚𝐢𝐬: Anglais professionnel pour les échanges oraux et écrits.</li>
+</ul>
+
+
 
 
 🔗 N’hésitez pas à me contacter ou à consulter mon site pour en savoir plus !
